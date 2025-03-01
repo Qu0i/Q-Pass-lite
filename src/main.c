@@ -21,7 +21,6 @@ int main()
   int choice;
   scanf("%d", &choice);
   getchar();
-  FILE *file = fopen("../data/passwords.txt", "a");
 
   switch(choice)
   {
