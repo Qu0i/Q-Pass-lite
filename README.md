@@ -18,17 +18,12 @@
 1️⃣ **Clone the repository:**  
 ```sh
 git clone https://github.com/Qu0i/Q-Pass-lite.git
-cd Q-Pass-lite
-```
-
-2️⃣ **Compile the project (GCC):**
-```sh
-gcc -o qpass main.c passAdd.c showPasswords.c passGen.c -Wall
+cd Q-Pass-lite/bin
 ```
 
 3️⃣ **Run the password manager:**
 ```sh
-./qpass
+./password-manager
 ```
 
 ---
