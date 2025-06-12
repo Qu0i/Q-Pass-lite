@@ -21,7 +21,7 @@ git clone https://github.com/Qu0i/Q-Pass-lite.git
 cd Q-Pass-lite/bin
 ```
 
-3️⃣ **Run the password manager:**
+2️⃣ **Run the password manager:**
 ```sh
 ./password-manager
 ```
